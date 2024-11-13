@@ -10,5 +10,5 @@ services:
       API_HASH: "008d5313d9006539373c2513373778cd" # Your API ID from my.telegram.org
       BOT_TOKEN: "7249154151:AAG2_V_O3FcVexZUw4qsYWAnY-iKo6PpXnk" # Bot token, get it from @BotFather 
       SESSION: "BQC93kdsV83uzo-uPrttOZW1x-ng5utfLHgdACWaltHo6foG-SETqvAdthhOeD2BHbj8Ari1XAGkhlC_hoq6z36qjuYMFA_qBe2Dz58_x1vM-EhWT10aY7m4OYSZeD6TFhvr2mmKXamOF-0CHQ2BNgS8LbVcEQPOeDw8Tapq5_k3Zh7CPHdVMPeQ9Y7S8zSAla6wll37SRaeW6IaqZylYmagaxlhzuBi6mGh1avfMK1OiSiQW1eeOZgFo1mluiGlD4KGY5diIXb6mL-yXpUMl_XMtXsH6fUG5orBUokqy8kxl1OQjhvNuxUMIe3DUZalgCHrXqZN-sBwqlTlEbbqdvGbAAAAAbAVUGcB" # Pyrogram string session
-      AUTH: "6206131497" # User ID of Bot owner
-      FORCESUB: @ # Username name of public channel without using '@'
+      AUTH: 6206131497 # User ID of Bot owner
+      FORCESUB: "@" # Username name of public channel without using '@'
